@@ -1,0 +1,52 @@
+.Login{
+    background-color: #242424;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 111px;
+    background-size: cover;
+    width: 100%;
+   
+}
+
+.login-page{
+    border: 2px solid #242424;
+    border-radius:20px ;
+    background-color: #ffffff;
+    padding: 50px 20px;
+}
+
+
+
+
+.login-email{
+   
+    margin: 25px;
+    height: 50px;
+    width: 330px;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid rgb(58, 57, 57);
+    font-size: 15px;
+   padding: 8px 20px;
+}
+
+.login-password{
+    
+    margin: 25px;
+    margin-top: 20px;
+    height: 50px;
+    width: 330px;
+    border-radius: 7px;
+    font-size: 15px;
+    outline: none;
+    border: 1px solid rgb(58, 57, 57);
+    padding: 8px 20px;
+}
+
+
+small{
+    color: cornflowerblue;
+    padding: 35px 28px;
+    cursor: pointer;
+}
